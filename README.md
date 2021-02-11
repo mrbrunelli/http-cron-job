@@ -4,7 +4,7 @@
 ### Como executar
 > O projeto deve estar na Gopath
 ```sh
-cd $GOPATH/src/github.com/mrbrunelli/rotina-portal-fatura
+cd $GOPATH/src/github.com/mrbrunelli/http-cron-job
 ```
 > Execute o sh script.
 ```sh
